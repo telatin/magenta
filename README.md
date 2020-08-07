@@ -1,0 +1,2 @@
+# magenta
+MAGs Gene Tables
