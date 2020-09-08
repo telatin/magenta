@@ -1,0 +1,164 @@
+##gff-version 3
+##sequence-region NODE_8531 1 5010
+##sequence-region NODE_8532 1 5010
+##sequence-region NODE_8537 1 5008
+##sequence-region NODE_8543 1 5005
+##sequence-region NODE_4059 1 10010
+##sequence-region NODE_5068 1 8010
+##sequence-region NODE_4487 1 9009
+##sequence-region NODE_5847 1 7006
+##sequence-region NODE_5850 1 7003
+##sequence-region NODE_5851 1 7002
+##sequence-region NODE_6900 1 6009
+##sequence-region NODE_11159 1 4010
+##sequence-region NODE_11178 1 4005
+##sequence-region NODE_11184 1 4004
+##sequence-region NODE_16328 1 3010
+##sequence-region NODE_16361 1 3005
+##sequence-region NODE_16362 1 3005
+##sequence-region NODE_16385 1 3002
+##sequence-region NODE_4469 1 9041
+##sequence-region NODE_4470 1 9040
+##sequence-region NODE_4475 1 9035
+##sequence-region NODE_4485 1 9017
+NODE_8531	Prodigal:002006	CDS	2	1114	.	-	0	ID=MGLILCEK_00001;inference=ab initio prediction:Prodigal:002006;locus_tag=MGLILCEK_00001;product=hypothetical protein
+NODE_8531	Prodigal:002006	CDS	1223	1810	.	-	0	ID=MGLILCEK_00002;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:T2KPJ3;locus_tag=MGLILCEK_00002;product=TonB-dependent receptor P3
+NODE_8531	Prodigal:002006	CDS	2161	3198	.	+	0	ID=MGLILCEK_00003;inference=ab initio prediction:Prodigal:002006;locus_tag=MGLILCEK_00003;product=hypothetical protein
+NODE_8531	Prodigal:002006	CDS	3724	4041	.	+	0	ID=MGLILCEK_00004;inference=ab initio prediction:Prodigal:002006;locus_tag=MGLILCEK_00004;product=hypothetical protein
+NODE_8532	Prodigal:002006	CDS	2	898	.	+	0	ID=MGLILCEK_00005;inference=ab initio prediction:Prodigal:002006;locus_tag=MGLILCEK_00005;product=hypothetical protein
+NODE_8532	Prodigal:002006	CDS	910	1965	.	+	0	ID=MGLILCEK_00006;eC_number=3.1.-.-;Name=yhcG;db_xref=COG:COG4804;gene=yhcG;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P45423;locus_tag=MGLILCEK_00006;product=Putative nuclease YhcG
+NODE_8532	Prodigal:002006	CDS	1962	5009	.	+	0	ID=MGLILCEK_00007;inference=ab initio prediction:Prodigal:002006;locus_tag=MGLILCEK_00007;product=hypothetical protein
+NODE_8537	Prodigal:002006	CDS	190	2082	.	-	0	ID=MGLILCEK_00008;eC_number=7.2.4.2;Name=oadA;db_xref=COG:COG0511;gene=oadA;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P13187;locus_tag=MGLILCEK_00008;product=Oxaloacetate decarboxylase alpha chain
+NODE_8537	Prodigal:002006	CDS	2396	4792	.	-	0	ID=MGLILCEK_00009;Name=mrcA;db_xref=COG:COG5009;gene=mrcA;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:O66874;locus_tag=MGLILCEK_00009;product=Penicillin-binding protein 1A
+NODE_8543	Prodigal:002006	CDS	560	1933	.	-	0	ID=MGLILCEK_00010;Name=norM;db_xref=COG:COG0534;gene=norM;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:O82855;locus_tag=MGLILCEK_00010;product=Multidrug resistance protein NorM
+NODE_8543	Prodigal:002006	CDS	2030	2536	.	-	0	ID=MGLILCEK_00011;inference=ab initio prediction:Prodigal:002006;locus_tag=MGLILCEK_00011;product=hypothetical protein
+NODE_8543	Prodigal:002006	CDS	2533	4587	.	-	0	ID=MGLILCEK_00012;inference=ab initio prediction:Prodigal:002006;locus_tag=MGLILCEK_00012;product=hypothetical protein
+NODE_8543	Prodigal:002006	CDS	4821	5003	.	-	0	ID=MGLILCEK_00013;Name=rpsU;db_xref=COG:COG0828;gene=rpsU;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P66519;locus_tag=MGLILCEK_00013;product=30S ribosomal protein S21
+NODE_4059	Prodigal:002006	CDS	73	537	.	+	0	ID=MGLILCEK_00014;inference=ab initio prediction:Prodigal:002006;locus_tag=MGLILCEK_00014;product=hypothetical protein
+NODE_4059	Prodigal:002006	CDS	538	858	.	+	0	ID=MGLILCEK_00015;inference=ab initio prediction:Prodigal:002006;locus_tag=MGLILCEK_00015;product=hypothetical protein
+NODE_4059	Prodigal:002006	CDS	867	1043	.	+	0	ID=MGLILCEK_00016;inference=ab initio prediction:Prodigal:002006;locus_tag=MGLILCEK_00016;product=hypothetical protein
+NODE_4059	Prodigal:002006	CDS	1045	2202	.	+	0	ID=MGLILCEK_00017;eC_number=2.8.1.7;Name=iscS;gene=iscS;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:O54055;locus_tag=MGLILCEK_00017;product=Cysteine desulfurase IscS
+NODE_4059	Prodigal:002006	CDS	2195	2389	.	+	0	ID=MGLILCEK_00018;inference=ab initio prediction:Prodigal:002006;locus_tag=MGLILCEK_00018;product=hypothetical protein
+NODE_4059	Prodigal:002006	CDS	2591	2800	.	+	0	ID=MGLILCEK_00019;inference=ab initio prediction:Prodigal:002006;locus_tag=MGLILCEK_00019;product=hypothetical protein
+NODE_4059	Prodigal:002006	CDS	2823	3059	.	+	0	ID=MGLILCEK_00020;inference=ab initio prediction:Prodigal:002006;locus_tag=MGLILCEK_00020;product=hypothetical protein
+NODE_4059	Prodigal:002006	CDS	3070	3825	.	+	0	ID=MGLILCEK_00021;inference=ab initio prediction:Prodigal:002006;locus_tag=MGLILCEK_00021;product=hypothetical protein
+NODE_4059	Prodigal:002006	CDS	3801	4049	.	+	0	ID=MGLILCEK_00022;inference=ab initio prediction:Prodigal:002006;locus_tag=MGLILCEK_00022;product=hypothetical protein
+NODE_4059	Prodigal:002006	CDS	4052	4390	.	+	0	ID=MGLILCEK_00023;inference=ab initio prediction:Prodigal:002006;locus_tag=MGLILCEK_00023;product=hypothetical protein
+NODE_4059	Prodigal:002006	CDS	4383	7175	.	+	0	ID=MGLILCEK_00024;eC_number=2.7.7.6;Name=yonO;gene=yonO;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:O31945;locus_tag=MGLILCEK_00024;product=DNA-directed RNA polymerase YonO
+NODE_4059	Prodigal:002006	CDS	7461	7694	.	+	0	ID=MGLILCEK_00025;inference=ab initio prediction:Prodigal:002006;locus_tag=MGLILCEK_00025;product=hypothetical protein
+NODE_4059	Prodigal:002006	CDS	7696	7896	.	+	0	ID=MGLILCEK_00026;inference=ab initio prediction:Prodigal:002006;locus_tag=MGLILCEK_00026;product=hypothetical protein
+NODE_4059	Prodigal:002006	CDS	7893	9131	.	+	0	ID=MGLILCEK_00027;inference=ab initio prediction:Prodigal:002006;locus_tag=MGLILCEK_00027;product=hypothetical protein
+NODE_4059	Prodigal:002006	CDS	9133	9420	.	+	0	ID=MGLILCEK_00028;db_xref=COG:COG0776;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P19436;locus_tag=MGLILCEK_00028;product=DNA-binding protein HU
+NODE_4059	Aragorn:001002	tRNA	9455	9529	.	+	.	ID=MGLILCEK_00029;inference=COORDINATES:profile:Aragorn:001002;locus_tag=MGLILCEK_00029;product=tRNA-Met(cat)
+NODE_4059	Aragorn:001002	tRNA	9622	9697	.	+	.	ID=MGLILCEK_00030;inference=COORDINATES:profile:Aragorn:001002;locus_tag=MGLILCEK_00030;product=tRNA-Thr(tgt)
+NODE_4059	Aragorn:001002	tRNA	9739	9814	.	+	.	ID=MGLILCEK_00031;inference=COORDINATES:profile:Aragorn:001002;locus_tag=MGLILCEK_00031;product=tRNA-Ala(tgc)
+NODE_4059	Aragorn:001002	tRNA	9846	9921	.	+	.	ID=MGLILCEK_00032;inference=COORDINATES:profile:Aragorn:001002;locus_tag=MGLILCEK_00032;product=tRNA-Ile(gat)
+NODE_5068	Prodigal:002006	CDS	75	527	.	+	0	ID=MGLILCEK_00033;inference=ab initio prediction:Prodigal:002006;locus_tag=MGLILCEK_00033;product=hypothetical protein
+NODE_5068	Prodigal:002006	CDS	511	1908	.	+	0	ID=MGLILCEK_00034;inference=ab initio prediction:Prodigal:002006;locus_tag=MGLILCEK_00034;product=hypothetical protein
+NODE_5068	Prodigal:002006	CDS	1921	2205	.	+	0	ID=MGLILCEK_00035;inference=ab initio prediction:Prodigal:002006;locus_tag=MGLILCEK_00035;product=hypothetical protein
+NODE_5068	Prodigal:002006	CDS	2217	2768	.	+	0	ID=MGLILCEK_00036;inference=ab initio prediction:Prodigal:002006;locus_tag=MGLILCEK_00036;product=hypothetical protein
+NODE_5068	Prodigal:002006	CDS	2765	3058	.	+	0	ID=MGLILCEK_00037;inference=ab initio prediction:Prodigal:002006;locus_tag=MGLILCEK_00037;product=hypothetical protein
+NODE_5068	Prodigal:002006	CDS	3068	3643	.	+	0	ID=MGLILCEK_00038;inference=ab initio prediction:Prodigal:002006;locus_tag=MGLILCEK_00038;product=hypothetical protein
+NODE_5068	Prodigal:002006	CDS	3643	4317	.	+	0	ID=MGLILCEK_00039;inference=ab initio prediction:Prodigal:002006;locus_tag=MGLILCEK_00039;product=hypothetical protein
+NODE_5068	Prodigal:002006	CDS	4322	5200	.	+	0	ID=MGLILCEK_00040;inference=ab initio prediction:Prodigal:002006;locus_tag=MGLILCEK_00040;product=hypothetical protein
+NODE_5068	Prodigal:002006	CDS	5212	7038	.	+	0	ID=MGLILCEK_00041;inference=ab initio prediction:Prodigal:002006;locus_tag=MGLILCEK_00041;product=hypothetical protein
+NODE_5068	Prodigal:002006	CDS	7064	8008	.	+	0	ID=MGLILCEK_00042;inference=ab initio prediction:Prodigal:002006;locus_tag=MGLILCEK_00042;product=hypothetical protein
+NODE_4487	Prodigal:002006	CDS	99	1367	.	+	0	ID=MGLILCEK_00043;Name=moaA;gene=moaA;inference=ab initio prediction:Prodigal:002006,protein motif:HAMAP:MF_01225_B;locus_tag=MGLILCEK_00043;product=GTP 3'%2C8-cyclase
+NODE_4487	Prodigal:002006	CDS	1396	4188	.	+	0	ID=MGLILCEK_00044;inference=ab initio prediction:Prodigal:002006;locus_tag=MGLILCEK_00044;product=hypothetical protein
+NODE_4487	Prodigal:002006	CDS	4314	6515	.	+	0	ID=MGLILCEK_00045;Name=apxIB;db_xref=COG:COG2274;gene=apxIB;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P26760;locus_tag=MGLILCEK_00045;product=Toxin RTX-I translocation ATP-binding protein
+NODE_4487	Prodigal:002006	CDS	6543	8654	.	+	0	ID=MGLILCEK_00046;inference=ab initio prediction:Prodigal:002006;locus_tag=MGLILCEK_00046;product=hypothetical protein
+NODE_4487	Prodigal:002006	CDS	8813	9004	.	+	0	ID=MGLILCEK_00047;inference=ab initio prediction:Prodigal:002006;locus_tag=MGLILCEK_00047;product=hypothetical protein
+NODE_5847	Prodigal:002006	CDS	95	1351	.	+	0	ID=MGLILCEK_00048;inference=ab initio prediction:Prodigal:002006;locus_tag=MGLILCEK_00048;product=hypothetical protein
+NODE_5847	Prodigal:002006	CDS	1373	2611	.	+	0	ID=MGLILCEK_00049;inference=ab initio prediction:Prodigal:002006;locus_tag=MGLILCEK_00049;product=hypothetical protein
+NODE_5847	Prodigal:002006	CDS	2894	3997	.	+	0	ID=MGLILCEK_00050;inference=ab initio prediction:Prodigal:002006;locus_tag=MGLILCEK_00050;product=hypothetical protein
+NODE_5847	Prodigal:002006	CDS	3957	4208	.	+	0	ID=MGLILCEK_00051;inference=ab initio prediction:Prodigal:002006;locus_tag=MGLILCEK_00051;product=hypothetical protein
+NODE_5847	Prodigal:002006	CDS	4306	4959	.	+	0	ID=MGLILCEK_00052;inference=ab initio prediction:Prodigal:002006;locus_tag=MGLILCEK_00052;product=hypothetical protein
+NODE_5847	Prodigal:002006	CDS	4978	5517	.	+	0	ID=MGLILCEK_00053;inference=ab initio prediction:Prodigal:002006;locus_tag=MGLILCEK_00053;product=hypothetical protein
+NODE_5847	Prodigal:002006	CDS	5514	6029	.	+	0	ID=MGLILCEK_00054;inference=ab initio prediction:Prodigal:002006;locus_tag=MGLILCEK_00054;product=hypothetical protein
+NODE_5847	Prodigal:002006	CDS	6016	6936	.	+	0	ID=MGLILCEK_00055;inference=ab initio prediction:Prodigal:002006;locus_tag=MGLILCEK_00055;product=hypothetical protein
+NODE_5850	Prodigal:002006	CDS	41	1030	.	-	0	ID=MGLILCEK_00056;inference=ab initio prediction:Prodigal:002006;locus_tag=MGLILCEK_00056;product=hypothetical protein
+NODE_5850	Prodigal:002006	CDS	1100	1696	.	-	0	ID=MGLILCEK_00057;inference=ab initio prediction:Prodigal:002006;locus_tag=MGLILCEK_00057;product=hypothetical protein
+NODE_5850	Prodigal:002006	CDS	1885	2367	.	-	0	ID=MGLILCEK_00058;inference=ab initio prediction:Prodigal:002006;locus_tag=MGLILCEK_00058;product=hypothetical protein
+NODE_5850	Prodigal:002006	CDS	2382	2807	.	-	0	ID=MGLILCEK_00059;inference=ab initio prediction:Prodigal:002006;locus_tag=MGLILCEK_00059;product=hypothetical protein
+NODE_5850	Prodigal:002006	CDS	3268	3450	.	+	0	ID=MGLILCEK_00060;inference=ab initio prediction:Prodigal:002006;locus_tag=MGLILCEK_00060;product=hypothetical protein
+NODE_5850	Prodigal:002006	CDS	3511	6969	.	+	0	ID=MGLILCEK_00061;inference=ab initio prediction:Prodigal:002006;locus_tag=MGLILCEK_00061;product=hypothetical protein
+NODE_5851	Prodigal:002006	CDS	626	1576	.	-	0	ID=MGLILCEK_00062;eC_number=2.5.1.72;Name=nadA;db_xref=COG:COG0379;gene=nadA;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P9WJK1;locus_tag=MGLILCEK_00062;product=Quinolinate synthase A
+NODE_5851	Prodigal:002006	CDS	1740	1943	.	-	0	ID=MGLILCEK_00063;inference=ab initio prediction:Prodigal:002006;locus_tag=MGLILCEK_00063;product=hypothetical protein
+NODE_5851	Prodigal:002006	CDS	1977	2648	.	-	0	ID=MGLILCEK_00064;eC_number=2.4.2.9;Name=upp;db_xref=COG:COG0035;gene=upp;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:O67914;locus_tag=MGLILCEK_00064;product=Uracil phosphoribosyltransferase
+NODE_5851	Prodigal:002006	CDS	2756	3367	.	-	0	ID=MGLILCEK_00065;eC_number=3.1.1.96;Name=dtd3;gene=dtd3;inference=ab initio prediction:Prodigal:002006,protein motif:HAMAP:MF_02048;locus_tag=MGLILCEK_00065;product=D-aminoacyl-tRNA deacylase
+NODE_5851	Prodigal:002006	CDS	3578	4009	.	-	0	ID=MGLILCEK_00066;eC_number=3.1.26.5;Name=rnpA;gene=rnpA;inference=ab initio prediction:Prodigal:002006,protein motif:HAMAP:MF_00227;locus_tag=MGLILCEK_00066;product=Ribonuclease P protein component
+NODE_5851	Prodigal:002006	CDS	4030	4788	.	-	0	ID=MGLILCEK_00067;inference=ab initio prediction:Prodigal:002006;locus_tag=MGLILCEK_00067;product=hypothetical protein
+NODE_5851	Prodigal:002006	CDS	4819	5679	.	-	0	ID=MGLILCEK_00068;inference=ab initio prediction:Prodigal:002006;locus_tag=MGLILCEK_00068;product=hypothetical protein
+NODE_5851	Prodigal:002006	CDS	5731	6282	.	-	0	ID=MGLILCEK_00069;eC_number=3.2.2.-;db_xref=COG:COG1611;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P48636;locus_tag=MGLILCEK_00069;product=Putative cytokinin riboside 5'-monophosphate phosphoribohydrolase
+NODE_5851	Aragorn:001002	tRNA	6567	6641	.	+	.	ID=MGLILCEK_00070;inference=COORDINATES:profile:Aragorn:001002;locus_tag=MGLILCEK_00070;product=tRNA-Asp(gtc)
+NODE_6900	Prodigal:002006	CDS	3	290	.	+	0	ID=MGLILCEK_00071;inference=ab initio prediction:Prodigal:002006;locus_tag=MGLILCEK_00071;product=hypothetical protein
+NODE_6900	Prodigal:002006	CDS	308	1171	.	+	0	ID=MGLILCEK_00072;inference=ab initio prediction:Prodigal:002006;locus_tag=MGLILCEK_00072;product=hypothetical protein
+NODE_6900	Prodigal:002006	CDS	1233	1835	.	-	0	ID=MGLILCEK_00073;inference=ab initio prediction:Prodigal:002006;locus_tag=MGLILCEK_00073;product=hypothetical protein
+NODE_6900	Prodigal:002006	CDS	1896	2447	.	+	0	ID=MGLILCEK_00074;inference=ab initio prediction:Prodigal:002006;locus_tag=MGLILCEK_00074;product=hypothetical protein
+NODE_6900	Prodigal:002006	CDS	2643	3026	.	+	0	ID=MGLILCEK_00075;Name=blaI;db_xref=COG:COG3682;gene=blaI;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P06555;locus_tag=MGLILCEK_00075;product=Penicillinase repressor
+NODE_6900	Prodigal:002006	CDS	3023	5494	.	+	0	ID=MGLILCEK_00076;inference=ab initio prediction:Prodigal:002006;locus_tag=MGLILCEK_00076;product=hypothetical protein
+NODE_6900	Prodigal:002006	CDS	5693	6007	.	-	0	ID=MGLILCEK_00077;inference=ab initio prediction:Prodigal:002006;locus_tag=MGLILCEK_00077;product=hypothetical protein
+NODE_11159	Prodigal:002006	CDS	3	140	.	-	0	ID=MGLILCEK_00078;inference=ab initio prediction:Prodigal:002006;locus_tag=MGLILCEK_00078;product=hypothetical protein
+NODE_11159	Prodigal:002006	CDS	435	818	.	-	0	ID=MGLILCEK_00079;inference=ab initio prediction:Prodigal:002006;locus_tag=MGLILCEK_00079;product=hypothetical protein
+NODE_11159	Prodigal:002006	CDS	1086	1910	.	-	0	ID=MGLILCEK_00080;inference=ab initio prediction:Prodigal:002006;locus_tag=MGLILCEK_00080;product=hypothetical protein
+NODE_11159	Prodigal:002006	CDS	1972	2433	.	-	0	ID=MGLILCEK_00081;inference=ab initio prediction:Prodigal:002006;locus_tag=MGLILCEK_00081;product=hypothetical protein
+NODE_11159	Prodigal:002006	CDS	2453	3310	.	-	0	ID=MGLILCEK_00082;inference=ab initio prediction:Prodigal:002006;locus_tag=MGLILCEK_00082;product=hypothetical protein
+NODE_11159	Prodigal:002006	CDS	3371	4009	.	-	0	ID=MGLILCEK_00083;inference=ab initio prediction:Prodigal:002006;locus_tag=MGLILCEK_00083;product=hypothetical protein
+NODE_11178	Prodigal:002006	CDS	2	739	.	-	0	ID=MGLILCEK_00084;inference=ab initio prediction:Prodigal:002006;locus_tag=MGLILCEK_00084;product=hypothetical protein
+NODE_11178	Prodigal:002006	CDS	754	1203	.	-	0	ID=MGLILCEK_00085;inference=ab initio prediction:Prodigal:002006;locus_tag=MGLILCEK_00085;product=hypothetical protein
+NODE_11178	Prodigal:002006	CDS	1266	1442	.	-	0	ID=MGLILCEK_00086;inference=ab initio prediction:Prodigal:002006;locus_tag=MGLILCEK_00086;product=hypothetical protein
+NODE_11178	Prodigal:002006	CDS	1476	1601	.	+	0	ID=MGLILCEK_00087;inference=ab initio prediction:Prodigal:002006;locus_tag=MGLILCEK_00087;product=hypothetical protein
+NODE_11178	Prodigal:002006	CDS	2189	3403	.	+	0	ID=MGLILCEK_00088;inference=ab initio prediction:Prodigal:002006;locus_tag=MGLILCEK_00088;product=hypothetical protein
+NODE_11178	Prodigal:002006	CDS	3400	3972	.	+	0	ID=MGLILCEK_00089;inference=ab initio prediction:Prodigal:002006;locus_tag=MGLILCEK_00089;product=hypothetical protein
+NODE_11184	Prodigal:002006	CDS	99	941	.	-	0	ID=MGLILCEK_00090;Name=tepA;db_xref=COG:COG0740;gene=tepA;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:Q99171;locus_tag=MGLILCEK_00090;product=Translocation-enhancing protein TepA
+NODE_11184	Prodigal:002006	CDS	880	1641	.	-	0	ID=MGLILCEK_00091;inference=ab initio prediction:Prodigal:002006;locus_tag=MGLILCEK_00091;product=hypothetical protein
+NODE_11184	Prodigal:002006	CDS	1692	2432	.	-	0	ID=MGLILCEK_00092;db_xref=COG:COG0217;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P62035;locus_tag=MGLILCEK_00092;product=putative transcriptional regulatory protein
+NODE_11184	Prodigal:002006	CDS	2459	3778	.	-	0	ID=MGLILCEK_00093;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P9WFP1;locus_tag=MGLILCEK_00093;note=UPF0053 protein Rv2366c;product=hypothetical protein
+NODE_16328	Prodigal:002006	CDS	3	206	.	-	0	ID=MGLILCEK_00094;inference=ab initio prediction:Prodigal:002006;locus_tag=MGLILCEK_00094;product=hypothetical protein
+NODE_16328	Prodigal:002006	CDS	221	793	.	-	0	ID=MGLILCEK_00095;inference=ab initio prediction:Prodigal:002006;locus_tag=MGLILCEK_00095;product=hypothetical protein
+NODE_16328	Prodigal:002006	CDS	1561	3009	.	-	0	ID=MGLILCEK_00096;eC_number=2.7.13.3;Name=rcsC;gene=rcsC;inference=ab initio prediction:Prodigal:002006,protein motif:HAMAP:MF_00979;locus_tag=MGLILCEK_00096;product=Sensor histidine kinase RcsC
+NODE_16361	Prodigal:002006	CDS	325	495	.	+	0	ID=MGLILCEK_00097;inference=ab initio prediction:Prodigal:002006;locus_tag=MGLILCEK_00097;product=hypothetical protein
+NODE_16361	Prodigal:002006	CDS	996	2324	.	+	0	ID=MGLILCEK_00098;inference=ab initio prediction:Prodigal:002006;locus_tag=MGLILCEK_00098;product=hypothetical protein
+NODE_16361	Prodigal:002006	CDS	2563	2808	.	-	0	ID=MGLILCEK_00099;inference=ab initio prediction:Prodigal:002006;locus_tag=MGLILCEK_00099;product=hypothetical protein
+NODE_16362	barrnap:0.9	rRNA	1	762	3.3e-210	+	.	ID=MGLILCEK_00100;locus_tag=MGLILCEK_00100;note=aligned only 48 percent of the 16S ribosomal RNA;product=16S ribosomal RNA (partial)
+NODE_16362	Aragorn:001002	tRNA	895	971	.	+	.	ID=MGLILCEK_00101;inference=COORDINATES:profile:Aragorn:001002;locus_tag=MGLILCEK_00101;product=tRNA-Ile(gat)
+NODE_16362	Aragorn:001002	tRNA	982	1057	.	+	.	ID=MGLILCEK_00102;inference=COORDINATES:profile:Aragorn:001002;locus_tag=MGLILCEK_00102;product=tRNA-Ala(tgc)
+NODE_16362	barrnap:0.9	rRNA	1130	3005	0	+	.	ID=MGLILCEK_00103;locus_tag=MGLILCEK_00103;note=aligned only 58 percent of the 23S ribosomal RNA;product=23S ribosomal RNA (partial)
+NODE_16385	Prodigal:002006	CDS	3	3002	.	+	0	ID=MGLILCEK_00104;inference=ab initio prediction:Prodigal:002006;locus_tag=MGLILCEK_00104;product=hypothetical protein
+NODE_4469	Prodigal:002006	CDS	9	2318	.	-	0	ID=MGLILCEK_00105;inference=ab initio prediction:Prodigal:002006;locus_tag=MGLILCEK_00105;product=hypothetical protein
+NODE_4469	Prodigal:002006	CDS	2315	2764	.	-	0	ID=MGLILCEK_00106;inference=ab initio prediction:Prodigal:002006;locus_tag=MGLILCEK_00106;product=hypothetical protein
+NODE_4469	Prodigal:002006	CDS	2886	3596	.	-	0	ID=MGLILCEK_00107;inference=ab initio prediction:Prodigal:002006;locus_tag=MGLILCEK_00107;product=hypothetical protein
+NODE_4469	Prodigal:002006	CDS	3613	5592	.	-	0	ID=MGLILCEK_00108;inference=ab initio prediction:Prodigal:002006;locus_tag=MGLILCEK_00108;product=hypothetical protein
+NODE_4469	Prodigal:002006	CDS	5713	6285	.	-	0	ID=MGLILCEK_00109;inference=ab initio prediction:Prodigal:002006;locus_tag=MGLILCEK_00109;product=hypothetical protein
+NODE_4469	Prodigal:002006	CDS	6282	6818	.	-	0	ID=MGLILCEK_00110;inference=ab initio prediction:Prodigal:002006;locus_tag=MGLILCEK_00110;product=hypothetical protein
+NODE_4469	Prodigal:002006	CDS	6915	7241	.	-	0	ID=MGLILCEK_00111;Name=resA;gene=resA;inference=ab initio prediction:Prodigal:002006,protein motif:HAMAP:MF_01319;locus_tag=MGLILCEK_00111;product=Thiol-disulfide oxidoreductase ResA
+NODE_4469	Prodigal:002006	CDS	7241	7927	.	-	0	ID=MGLILCEK_00112;inference=ab initio prediction:Prodigal:002006;locus_tag=MGLILCEK_00112;product=hypothetical protein
+NODE_4469	Prodigal:002006	CDS	8092	9012	.	+	0	ID=MGLILCEK_00113;Name=oxyR;gene=oxyR;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P0ACQ4;locus_tag=MGLILCEK_00113;product=Hydrogen peroxide-inducible genes activator
+NODE_4470	Prodigal:002006	CDS	108	1268	.	-	0	ID=MGLILCEK_00114;eC_number=7.2.4.5;Name=gcdB;db_xref=COG:COG1883;gene=gcdB;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:Q9ZAA6;locus_tag=MGLILCEK_00114;product=Glutaconyl-CoA decarboxylase subunit beta
+NODE_4470	Prodigal:002006	CDS	1353	1799	.	-	0	ID=MGLILCEK_00115;eC_number=6.4.1.7;Name=cfiA;db_xref=COG:COG0511;gene=cfiA;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:D3DJ41;locus_tag=MGLILCEK_00115;product=2-oxoglutarate carboxylase large subunit
+NODE_4470	Prodigal:002006	CDS	1825	2760	.	-	0	ID=MGLILCEK_00116;inference=ab initio prediction:Prodigal:002006;locus_tag=MGLILCEK_00116;product=hypothetical protein
+NODE_4470	Prodigal:002006	CDS	2771	4324	.	-	0	ID=MGLILCEK_00117;eC_number=6.4.1.3;Name=pccB;db_xref=COG:COG4799;gene=pccB;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:Q3J4E3;locus_tag=MGLILCEK_00117;product=Propionyl-CoA carboxylase beta chain
+NODE_4470	Prodigal:002006	CDS	4354	4776	.	-	0	ID=MGLILCEK_00118;eC_number=5.1.99.-;Name=epi;db_xref=COG:COG0346;gene=epi;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:Q3IZP4;locus_tag=MGLILCEK_00118;product=Ethylmalonyl-CoA/methylmalonyl-CoA epimerase
+NODE_4470	Prodigal:002006	CDS	5128	6717	.	+	0	ID=MGLILCEK_00119;eC_number=1.10.3.-;Name=cydA;db_xref=COG:COG1271;gene=cydA;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:Q09049;locus_tag=MGLILCEK_00119;product=Cytochrome bd ubiquinol oxidase subunit 1
+NODE_4470	Prodigal:002006	CDS	6721	7863	.	+	0	ID=MGLILCEK_00120;eC_number=7.1.1.7;Name=cydB;db_xref=COG:COG1294;gene=cydB;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P0ABK2;locus_tag=MGLILCEK_00120;product=Cytochrome bd-I ubiquinol oxidase subunit 2
+NODE_4470	Prodigal:002006	CDS	8412	9038	.	-	0	ID=MGLILCEK_00121;inference=ab initio prediction:Prodigal:002006;locus_tag=MGLILCEK_00121;product=hypothetical protein
+NODE_4475	Prodigal:002006	CDS	34	354	.	-	0	ID=MGLILCEK_00122;inference=ab initio prediction:Prodigal:002006;locus_tag=MGLILCEK_00122;product=hypothetical protein
+NODE_4475	Prodigal:002006	CDS	408	680	.	-	0	ID=MGLILCEK_00123;eC_number=3.1.-.-;Name=yafQ;db_xref=COG:COG3041;gene=yafQ;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:Q47149;locus_tag=MGLILCEK_00123;product=mRNA interferase toxin YafQ
+NODE_4475	Prodigal:002006	CDS	677	931	.	-	0	ID=MGLILCEK_00124;inference=ab initio prediction:Prodigal:002006;locus_tag=MGLILCEK_00124;product=hypothetical protein
+NODE_4475	Prodigal:002006	CDS	1010	3319	.	+	0	ID=MGLILCEK_00125;inference=ab initio prediction:Prodigal:002006;locus_tag=MGLILCEK_00125;product=hypothetical protein
+NODE_4475	Prodigal:002006	CDS	3333	4052	.	+	0	ID=MGLILCEK_00126;inference=ab initio prediction:Prodigal:002006;locus_tag=MGLILCEK_00126;product=hypothetical protein
+NODE_4475	Prodigal:002006	CDS	4205	4480	.	+	0	ID=MGLILCEK_00127;db_xref=COG:COG0776;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P19436;locus_tag=MGLILCEK_00127;product=DNA-binding protein HU
+NODE_4475	Prodigal:002006	CDS	4825	5316	.	-	0	ID=MGLILCEK_00128;inference=ab initio prediction:Prodigal:002006;locus_tag=MGLILCEK_00128;product=hypothetical protein
+NODE_4475	Prodigal:002006	CDS	5735	5929	.	-	0	ID=MGLILCEK_00129;inference=ab initio prediction:Prodigal:002006;locus_tag=MGLILCEK_00129;product=hypothetical protein
+NODE_4475	Prodigal:002006	CDS	5947	6639	.	-	0	ID=MGLILCEK_00130;inference=ab initio prediction:Prodigal:002006;locus_tag=MGLILCEK_00130;product=hypothetical protein
+NODE_4475	Prodigal:002006	CDS	6641	7978	.	-	0	ID=MGLILCEK_00131;inference=ab initio prediction:Prodigal:002006;locus_tag=MGLILCEK_00131;product=hypothetical protein
+NODE_4475	Prodigal:002006	CDS	8100	8693	.	-	0	ID=MGLILCEK_00132;inference=ab initio prediction:Prodigal:002006;locus_tag=MGLILCEK_00132;product=hypothetical protein
+NODE_4475	Prodigal:002006	CDS	8771	9034	.	+	0	ID=MGLILCEK_00133;inference=ab initio prediction:Prodigal:002006;locus_tag=MGLILCEK_00133;product=hypothetical protein
+NODE_4485	Prodigal:002006	CDS	107	1054	.	+	0	ID=MGLILCEK_00134;Name=xerC;gene=xerC;inference=ab initio prediction:Prodigal:002006,protein motif:HAMAP:MF_01808;locus_tag=MGLILCEK_00134;product=Tyrosine recombinase XerC
+NODE_4485	Prodigal:002006	CDS	1720	2163	.	+	0	ID=MGLILCEK_00135;inference=ab initio prediction:Prodigal:002006;locus_tag=MGLILCEK_00135;product=hypothetical protein
+NODE_4485	Prodigal:002006	CDS	2935	3990	.	+	0	ID=MGLILCEK_00136;inference=ab initio prediction:Prodigal:002006;locus_tag=MGLILCEK_00136;product=hypothetical protein
+NODE_4485	Prodigal:002006	CDS	3987	4850	.	+	0	ID=MGLILCEK_00137;inference=ab initio prediction:Prodigal:002006;locus_tag=MGLILCEK_00137;product=hypothetical protein
+NODE_4485	Prodigal:002006	CDS	4870	5082	.	+	0	ID=MGLILCEK_00138;inference=ab initio prediction:Prodigal:002006;locus_tag=MGLILCEK_00138;product=hypothetical protein
+NODE_4485	Prodigal:002006	CDS	5218	6867	.	+	0	ID=MGLILCEK_00139;inference=ab initio prediction:Prodigal:002006;locus_tag=MGLILCEK_00139;product=hypothetical protein
+NODE_4485	Prodigal:002006	CDS	6868	8505	.	+	0	ID=MGLILCEK_00140;inference=ab initio prediction:Prodigal:002006;locus_tag=MGLILCEK_00140;product=hypothetical protein
+NODE_4485	Prodigal:002006	CDS	8498	9016	.	+	0	ID=MGLILCEK_00141;inference=ab initio prediction:Prodigal:002006;locus_tag=MGLILCEK_00141;product=hypothetical protein

@@ -1,0 +1,131 @@
+[10:54:42] This is prokka 1.14.6
+           Written by Torsten Seemann <torsten.seemann@gmail.com>
+           Homepage is https://github.com/telatin/prokka
+           Local time is Fri Aug  7 10:54:42 2020
+           You are ansorge
+           Operating system is linux
+[10:54:42] You have BioPerl 1.007002
+[10:54:42] System has 176 cores.
+[10:54:42] Will use maximum of 24 cores.
+[10:54:42] Annotating as >>> Bacteria <<<
+[10:54:42] /opt/software/conda_env/db/kingdom/Bacteria/sprot.pin /opt/software/conda_env/db/hmm/HAMAP.hmm.h3i
+[10:54:42] Generating locus_tag from 'assembly/sample4.fasta' contents.
+[10:54:42] Setting --locustag LEBPFFEF from MD5 5eb9ffef0b0eedf3f0a18d43f7dd3c55
+[10:54:42] Re-using existing --outdir prokka/sample4
+[10:54:42] Using filename prefix: annotation.XXX
+[10:54:42] Setting HMMER_NCPU=1
+[10:54:42] Writing log to: prokka/sample4/annotation.log
+[10:54:42] Command: /opt/software/conda_env/bin/prokka --metagenome --cpu 24 --outdir prokka/sample4 --prefix annotation assembly/sample4.fasta --force
+[10:54:42] Appending to PATH: /opt/software/conda_env/bin
+[10:54:42] Looking for 'aragorn' - found /opt/software/conda_env/bin/aragorn
+[10:54:42] Determined aragorn version is 001002 from 'ARAGORN v1.2.38 Dean Laslett'
+[10:54:42] Looking for 'barrnap' - found /opt/software/conda_env/bin/barrnap
+[10:54:42] Determined barrnap version is 000009 from 'barrnap 0.9'
+[10:54:42] Looking for 'blastp' - found /opt/software/conda_env/bin/blastp
+[10:54:45] Determined blastp version is 002009 from 'blastp: 2.9.0+'
+[10:54:45] Looking for 'cmpress' - found /opt/software/conda_env/bin/cmpress
+[10:54:45] Determined cmpress version is 001001 from '# INFERNAL 1.1.2 (July 2016)'
+[10:54:45] Looking for 'cmscan' - found /opt/software/conda_env/bin/cmscan
+[10:54:45] Determined cmscan version is 001001 from '# INFERNAL 1.1.2 (July 2016)'
+[10:54:45] Looking for 'egrep' - found /usr/bin/egrep
+[10:54:45] Looking for 'find' - found /usr/bin/find
+[10:54:45] Looking for 'grep' - found /usr/bin/grep
+[10:54:45] Looking for 'hmmpress' - found /opt/software/conda_env/bin/hmmpress
+[10:54:45] Determined hmmpress version is 003003 from '# HMMER 3.3 (Nov 2019); http://hmmer.org/'
+[10:54:45] Looking for 'hmmscan' - found /opt/software/conda_env/bin/hmmscan
+[10:54:45] Determined hmmscan version is 003003 from '# HMMER 3.3 (Nov 2019); http://hmmer.org/'
+[10:54:45] Looking for 'java' - found /opt/software/conda_env/bin/java
+[10:54:45] Looking for 'makeblastdb' - found /opt/software/conda_env/bin/makeblastdb
+[10:54:45] Determined makeblastdb version is 002009 from 'makeblastdb: 2.9.0+'
+[10:54:45] Looking for 'minced' - found /opt/software/conda_env/bin/minced
+[10:54:47] Determined minced version is 004002 from 'minced 0.4.2'
+[10:54:47] Looking for 'parallel' - found /opt/software/conda_env/bin/parallel
+[10:54:47] Determined parallel version is 20200322 from 'GNU parallel 20200322'
+[10:54:47] Looking for 'prodigal' - found /opt/software/conda_env/bin/prodigal
+[10:54:47] Determined prodigal version is 002006 from 'Prodigal V2.6.3: February, 2016'
+[10:54:47] Looking for 'prokka-genbank_to_fasta_db' - found /opt/software/conda_env/bin/prokka-genbank_to_fasta_db
+[10:54:47] Looking for 'sed' - found /usr/bin/sed
+[10:54:47] Looking for 'tbl2asn' - found /opt/software/conda_env/bin/tbl2asn
+[10:54:48] Determined tbl2asn version is 025007 from 'tbl2asn 25.7   arguments:'
+[10:54:48] Using genetic code table 11.
+[10:54:48] Loading and checking input file: assembly/sample4.fasta
+[10:54:48] Wrote 20 contigs totalling 116188 bp.
+[10:54:48] Predicting tRNAs and tmRNAs
+[10:54:48] Running: aragorn -l -gc11  -w prokka\/sample4\/annotation\.fna
+[10:54:48] 1 tRNA-Val c[4853,4928] 36 (tac)
+[10:54:48] 1 tRNA-Met [9455,9529] 34 (cat)
+[10:54:48] 2 tRNA-Thr [9622,9697] 34 (tgt)
+[10:54:48] 3 tRNA-Ala [9739,9814] 34 (tgc)
+[10:54:48] 4 tRNA-Ile [9846,9921] 34 (gat)
+[10:54:48] 1 tRNA-Ile [895,971] 35 (gat)
+[10:54:48] 2 tRNA-Ala [982,1057] 34 (tgc)
+[10:54:48] Found 7 tRNAs
+[10:54:48] Predicting Ribosomal RNAs
+[10:54:48] Running Barrnap with 24 threads
+[10:54:49] 1 NODE_16362 1 16S ribosomal RNA (partial)
+[10:54:49] 2 NODE_16362 1130 23S ribosomal RNA (partial)
+[10:54:49] Found 2 rRNAs
+[10:54:49] Skipping ncRNA search, enable with --rfam if desired.
+[10:54:49] Total of 9 tRNA + rRNA features
+[10:54:49] Searching for CRISPR repeats
+[10:54:49] Found 0 CRISPRs
+[10:54:49] Predicting coding sequences
+[10:54:49] Contigs total 116188 bp, so using meta mode
+[10:54:49] Running: prodigal -i prokka\/sample4\/annotation\.fna  -m -g 11 -p meta -f sco -q
+[10:54:49] Excluding CDS which overlaps existing RNA (tRNA) at NODE_8536:4794..4922 on + strand
+[10:54:50] Excluding CDS which overlaps existing RNA (tRNA) at NODE_16362:832..1254 on - strand
+[10:54:50] Found 118 CDS
+[10:54:50] Connecting features back to sequences
+[10:54:50] Not using genus-specific database. Try --usegenus to enable it.
+[10:54:50] Annotating CDS, please be patient.
+[10:54:50] Will use 24 CPUs for similarity searching.
+[10:54:50] There are still 118 unannotated CDS left (started with 118)
+[10:54:50] Will use blast to search against /opt/software/conda_env/db/kingdom/Bacteria/IS with 24 CPUs
+[10:54:50] [1mShell command:[0m
+cat prokka/sample4/annotation.IS.tmp.227805.faa | parallel --gnu --plain -j 24 --block 694 --recstart '>' --pipe blastp -query - -db /opt/software/conda_env/db/kingdom/Bacteria/IS -evalue 1e-30 -qcov_hsp_perc 90 -num_threads 1 -num_descriptions 1 -num_alignments 1 -seg no > prokka/sample4/annotation.IS.tmp.227805.blast 2> /dev/null
+[10:54:51] Deleting unwanted file: prokka/sample4/annotation.IS.tmp.227805.faa
+[10:54:51] Deleting unwanted file: prokka/sample4/annotation.IS.tmp.227805.blast
+[10:54:51] There are still 118 unannotated CDS left (started with 118)
+[10:54:51] Will use blast to search against /opt/software/conda_env/db/kingdom/Bacteria/AMR with 24 CPUs
+[10:54:51] [1mShell command:[0m
+cat prokka/sample4/annotation.AMR.tmp.227805.faa | parallel --gnu --plain -j 24 --block 694 --recstart '>' --pipe blastp -query - -db /opt/software/conda_env/db/kingdom/Bacteria/AMR -evalue 9.99999999999999e-301 -qcov_hsp_perc 90 -num_threads 1 -num_descriptions 1 -num_alignments 1 -seg no > prokka/sample4/annotation.AMR.tmp.227805.blast 2> /dev/null
+[10:54:52] Deleting unwanted file: prokka/sample4/annotation.AMR.tmp.227805.faa
+[10:54:52] Deleting unwanted file: prokka/sample4/annotation.AMR.tmp.227805.blast
+[10:54:52] There are still 118 unannotated CDS left (started with 118)
+[10:54:52] Will use blast to search against /opt/software/conda_env/db/kingdom/Bacteria/sprot with 24 CPUs
+[10:54:52] [1mShell command:[0m
+cat prokka/sample4/annotation.sprot.tmp.227805.faa | parallel --gnu --plain -j 24 --block 694 --recstart '>' --pipe blastp -query - -db /opt/software/conda_env/db/kingdom/Bacteria/sprot -evalue 1e-09 -qcov_hsp_perc 80 -num_threads 1 -num_descriptions 1 -num_alignments 1 -seg no > prokka/sample4/annotation.sprot.tmp.227805.blast 2> /dev/null
+[10:54:54] Modify product: Probable transcriptional regulatory protein DVU_2259 => putative transcriptional regulatory protein
+[10:54:54] Modify product: UPF0053 protein Rv2366c => hypothetical protein
+[10:54:54] Cleaned 2 /product names
+[10:54:54] Deleting unwanted file: prokka/sample4/annotation.sprot.tmp.227805.faa
+[10:54:54] Deleting unwanted file: prokka/sample4/annotation.sprot.tmp.227805.blast
+[10:54:54] There are still 103 unannotated CDS left (started with 118)
+[10:54:54] Will use hmmer3 to search against /opt/software/conda_env/db/hmm/HAMAP.hmm with 24 CPUs
+[10:54:54] [1mShell command:[0m
+cat prokka/sample4/annotation.HAMAP.hmm.tmp.227805.faa | parallel --gnu --plain -j 24 --block 570 --recstart '>' --pipe hmmscan --noali --notextw --acc -E 1e-09 --cpu 1 /opt/software/conda_env/db/hmm/HAMAP.hmm /dev/stdin > prokka/sample4/annotation.HAMAP.hmm.tmp.227805.hmmer3 2> /dev/null
+[10:54:58] Deleting unwanted file: prokka/sample4/annotation.HAMAP.hmm.tmp.227805.faa
+[10:54:58] Deleting unwanted file: prokka/sample4/annotation.HAMAP.hmm.tmp.227805.hmmer3
+[10:54:58] Labelling remaining 100 proteins as 'hypothetical protein'
+[10:54:58] Found 14 unique /gene codes.
+[10:54:58] Fixed 0 colliding /gene names.
+[10:54:58] Adding /locus_tag identifiers
+[10:54:58] Assigned 127 locus_tags to CDS and RNA features.
+[10:54:58] Writing outputs to prokka/sample4/
+[10:54:58] Deleting unwanted file: prokka/sample4/annotation.fna
+[10:54:58] Generating annotation statistics file
+[10:54:58] Generating Genbank and Sequin files
+[10:54:58] Skipping tbl2asn (metagenome)
+[10:54:58] Output files:
+            * prokka/sample4/annotation.tsv
+            * prokka/sample4/annotation.gff
+            * prokka/sample4/annotation.log
+            * prokka/sample4/annotation.ffn
+            * prokka/sample4/annotation.txt
+            * prokka/sample4/annotation.faa
+[10:54:58] Annotation finished successfully.
+[10:54:58] Walltime used: 0.27 minutes
+[10:54:58] If you use this result please cite the Prokka paper:
+[10:54:58] Seemann T (2014) Prokka: rapid prokaryotic genome annotation. Bioinformatics. 30(14):2068-9.
+[10:54:58] Type 'prokka --citation' for more details.
+[10:54:58] Thank you, come again.

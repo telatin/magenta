@@ -1,0 +1,148 @@
+##gff-version 3
+##sequence-region NODE_8531 1 5010
+##sequence-region NODE_8536 1 5009
+##sequence-region NODE_8537 1 5008
+##sequence-region NODE_8543 1 5005
+##sequence-region NODE_4059 1 10010
+##sequence-region NODE_5068 1 8010
+##sequence-region NODE_5847 1 7006
+##sequence-region NODE_5848 1 7006
+##sequence-region NODE_5850 1 7003
+##sequence-region NODE_6900 1 6009
+##sequence-region NODE_11159 1 4010
+##sequence-region NODE_11178 1 4005
+##sequence-region NODE_11184 1 4004
+##sequence-region NODE_16328 1 3010
+##sequence-region NODE_16361 1 3005
+##sequence-region NODE_16362 1 3005
+##sequence-region NODE_16385 1 3002
+##sequence-region NODE_4469 1 9041
+##sequence-region NODE_4485 1 9017
+##sequence-region NODE_4486 1 9013
+NODE_8531	Prodigal:002006	CDS	2	1114	.	-	0	ID=LEBPFFEF_00001;inference=ab initio prediction:Prodigal:002006;locus_tag=LEBPFFEF_00001;product=hypothetical protein
+NODE_8531	Prodigal:002006	CDS	1223	1810	.	-	0	ID=LEBPFFEF_00002;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:T2KPJ3;locus_tag=LEBPFFEF_00002;product=TonB-dependent receptor P3
+NODE_8531	Prodigal:002006	CDS	2161	3198	.	+	0	ID=LEBPFFEF_00003;inference=ab initio prediction:Prodigal:002006;locus_tag=LEBPFFEF_00003;product=hypothetical protein
+NODE_8531	Prodigal:002006	CDS	3724	4041	.	+	0	ID=LEBPFFEF_00004;inference=ab initio prediction:Prodigal:002006;locus_tag=LEBPFFEF_00004;product=hypothetical protein
+NODE_8536	Prodigal:002006	CDS	296	1699	.	-	0	ID=LEBPFFEF_00005;eC_number=6.1.1.22;Name=asnS;db_xref=COG:COG0017;gene=asnS;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P0A8M0;locus_tag=LEBPFFEF_00005;product=Asparagine--tRNA ligase
+NODE_8536	Prodigal:002006	CDS	1729	3213	.	-	0	ID=LEBPFFEF_00006;inference=ab initio prediction:Prodigal:002006;locus_tag=LEBPFFEF_00006;product=hypothetical protein
+NODE_8536	Prodigal:002006	CDS	3350	4696	.	-	0	ID=LEBPFFEF_00007;eC_number=4.3.2.2;Name=purB;db_xref=COG:COG0015;gene=purB;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P0AB89;locus_tag=LEBPFFEF_00007;product=Adenylosuccinate lyase
+NODE_8536	Aragorn:001002	tRNA	4853	4928	.	-	.	ID=LEBPFFEF_00008;inference=COORDINATES:profile:Aragorn:001002;locus_tag=LEBPFFEF_00008;product=tRNA-Val(tac)
+NODE_8537	Prodigal:002006	CDS	190	2082	.	-	0	ID=LEBPFFEF_00009;eC_number=7.2.4.2;Name=oadA;db_xref=COG:COG0511;gene=oadA;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P13187;locus_tag=LEBPFFEF_00009;product=Oxaloacetate decarboxylase alpha chain
+NODE_8537	Prodigal:002006	CDS	2396	4792	.	-	0	ID=LEBPFFEF_00010;Name=mrcA;db_xref=COG:COG5009;gene=mrcA;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:O66874;locus_tag=LEBPFFEF_00010;product=Penicillin-binding protein 1A
+NODE_8543	Prodigal:002006	CDS	560	1933	.	-	0	ID=LEBPFFEF_00011;Name=norM;db_xref=COG:COG0534;gene=norM;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:O82855;locus_tag=LEBPFFEF_00011;product=Multidrug resistance protein NorM
+NODE_8543	Prodigal:002006	CDS	2030	2536	.	-	0	ID=LEBPFFEF_00012;inference=ab initio prediction:Prodigal:002006;locus_tag=LEBPFFEF_00012;product=hypothetical protein
+NODE_8543	Prodigal:002006	CDS	2533	4587	.	-	0	ID=LEBPFFEF_00013;inference=ab initio prediction:Prodigal:002006;locus_tag=LEBPFFEF_00013;product=hypothetical protein
+NODE_8543	Prodigal:002006	CDS	4821	5003	.	-	0	ID=LEBPFFEF_00014;Name=rpsU;db_xref=COG:COG0828;gene=rpsU;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P66519;locus_tag=LEBPFFEF_00014;product=30S ribosomal protein S21
+NODE_4059	Prodigal:002006	CDS	73	537	.	+	0	ID=LEBPFFEF_00015;inference=ab initio prediction:Prodigal:002006;locus_tag=LEBPFFEF_00015;product=hypothetical protein
+NODE_4059	Prodigal:002006	CDS	538	858	.	+	0	ID=LEBPFFEF_00016;inference=ab initio prediction:Prodigal:002006;locus_tag=LEBPFFEF_00016;product=hypothetical protein
+NODE_4059	Prodigal:002006	CDS	867	1043	.	+	0	ID=LEBPFFEF_00017;inference=ab initio prediction:Prodigal:002006;locus_tag=LEBPFFEF_00017;product=hypothetical protein
+NODE_4059	Prodigal:002006	CDS	1045	2202	.	+	0	ID=LEBPFFEF_00018;eC_number=2.8.1.7;Name=iscS;gene=iscS;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:O54055;locus_tag=LEBPFFEF_00018;product=Cysteine desulfurase IscS
+NODE_4059	Prodigal:002006	CDS	2195	2389	.	+	0	ID=LEBPFFEF_00019;inference=ab initio prediction:Prodigal:002006;locus_tag=LEBPFFEF_00019;product=hypothetical protein
+NODE_4059	Prodigal:002006	CDS	2591	2800	.	+	0	ID=LEBPFFEF_00020;inference=ab initio prediction:Prodigal:002006;locus_tag=LEBPFFEF_00020;product=hypothetical protein
+NODE_4059	Prodigal:002006	CDS	2823	3059	.	+	0	ID=LEBPFFEF_00021;inference=ab initio prediction:Prodigal:002006;locus_tag=LEBPFFEF_00021;product=hypothetical protein
+NODE_4059	Prodigal:002006	CDS	3070	3825	.	+	0	ID=LEBPFFEF_00022;inference=ab initio prediction:Prodigal:002006;locus_tag=LEBPFFEF_00022;product=hypothetical protein
+NODE_4059	Prodigal:002006	CDS	3801	4049	.	+	0	ID=LEBPFFEF_00023;inference=ab initio prediction:Prodigal:002006;locus_tag=LEBPFFEF_00023;product=hypothetical protein
+NODE_4059	Prodigal:002006	CDS	4052	4390	.	+	0	ID=LEBPFFEF_00024;inference=ab initio prediction:Prodigal:002006;locus_tag=LEBPFFEF_00024;product=hypothetical protein
+NODE_4059	Prodigal:002006	CDS	4383	7175	.	+	0	ID=LEBPFFEF_00025;eC_number=2.7.7.6;Name=yonO;gene=yonO;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:O31945;locus_tag=LEBPFFEF_00025;product=DNA-directed RNA polymerase YonO
+NODE_4059	Prodigal:002006	CDS	7461	7694	.	+	0	ID=LEBPFFEF_00026;inference=ab initio prediction:Prodigal:002006;locus_tag=LEBPFFEF_00026;product=hypothetical protein
+NODE_4059	Prodigal:002006	CDS	7696	7896	.	+	0	ID=LEBPFFEF_00027;inference=ab initio prediction:Prodigal:002006;locus_tag=LEBPFFEF_00027;product=hypothetical protein
+NODE_4059	Prodigal:002006	CDS	7893	9131	.	+	0	ID=LEBPFFEF_00028;inference=ab initio prediction:Prodigal:002006;locus_tag=LEBPFFEF_00028;product=hypothetical protein
+NODE_4059	Prodigal:002006	CDS	9133	9420	.	+	0	ID=LEBPFFEF_00029;db_xref=COG:COG0776;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P19436;locus_tag=LEBPFFEF_00029;product=DNA-binding protein HU
+NODE_4059	Aragorn:001002	tRNA	9455	9529	.	+	.	ID=LEBPFFEF_00030;inference=COORDINATES:profile:Aragorn:001002;locus_tag=LEBPFFEF_00030;product=tRNA-Met(cat)
+NODE_4059	Aragorn:001002	tRNA	9622	9697	.	+	.	ID=LEBPFFEF_00031;inference=COORDINATES:profile:Aragorn:001002;locus_tag=LEBPFFEF_00031;product=tRNA-Thr(tgt)
+NODE_4059	Aragorn:001002	tRNA	9739	9814	.	+	.	ID=LEBPFFEF_00032;inference=COORDINATES:profile:Aragorn:001002;locus_tag=LEBPFFEF_00032;product=tRNA-Ala(tgc)
+NODE_4059	Aragorn:001002	tRNA	9846	9921	.	+	.	ID=LEBPFFEF_00033;inference=COORDINATES:profile:Aragorn:001002;locus_tag=LEBPFFEF_00033;product=tRNA-Ile(gat)
+NODE_5068	Prodigal:002006	CDS	75	527	.	+	0	ID=LEBPFFEF_00034;inference=ab initio prediction:Prodigal:002006;locus_tag=LEBPFFEF_00034;product=hypothetical protein
+NODE_5068	Prodigal:002006	CDS	511	1908	.	+	0	ID=LEBPFFEF_00035;inference=ab initio prediction:Prodigal:002006;locus_tag=LEBPFFEF_00035;product=hypothetical protein
+NODE_5068	Prodigal:002006	CDS	1921	2205	.	+	0	ID=LEBPFFEF_00036;inference=ab initio prediction:Prodigal:002006;locus_tag=LEBPFFEF_00036;product=hypothetical protein
+NODE_5068	Prodigal:002006	CDS	2217	2768	.	+	0	ID=LEBPFFEF_00037;inference=ab initio prediction:Prodigal:002006;locus_tag=LEBPFFEF_00037;product=hypothetical protein
+NODE_5068	Prodigal:002006	CDS	2765	3058	.	+	0	ID=LEBPFFEF_00038;inference=ab initio prediction:Prodigal:002006;locus_tag=LEBPFFEF_00038;product=hypothetical protein
+NODE_5068	Prodigal:002006	CDS	3068	3643	.	+	0	ID=LEBPFFEF_00039;inference=ab initio prediction:Prodigal:002006;locus_tag=LEBPFFEF_00039;product=hypothetical protein
+NODE_5068	Prodigal:002006	CDS	3643	4317	.	+	0	ID=LEBPFFEF_00040;inference=ab initio prediction:Prodigal:002006;locus_tag=LEBPFFEF_00040;product=hypothetical protein
+NODE_5068	Prodigal:002006	CDS	4322	5200	.	+	0	ID=LEBPFFEF_00041;inference=ab initio prediction:Prodigal:002006;locus_tag=LEBPFFEF_00041;product=hypothetical protein
+NODE_5068	Prodigal:002006	CDS	5212	7038	.	+	0	ID=LEBPFFEF_00042;inference=ab initio prediction:Prodigal:002006;locus_tag=LEBPFFEF_00042;product=hypothetical protein
+NODE_5068	Prodigal:002006	CDS	7064	8008	.	+	0	ID=LEBPFFEF_00043;inference=ab initio prediction:Prodigal:002006;locus_tag=LEBPFFEF_00043;product=hypothetical protein
+NODE_5847	Prodigal:002006	CDS	95	1351	.	+	0	ID=LEBPFFEF_00044;inference=ab initio prediction:Prodigal:002006;locus_tag=LEBPFFEF_00044;product=hypothetical protein
+NODE_5847	Prodigal:002006	CDS	1373	2611	.	+	0	ID=LEBPFFEF_00045;inference=ab initio prediction:Prodigal:002006;locus_tag=LEBPFFEF_00045;product=hypothetical protein
+NODE_5847	Prodigal:002006	CDS	2894	3997	.	+	0	ID=LEBPFFEF_00046;inference=ab initio prediction:Prodigal:002006;locus_tag=LEBPFFEF_00046;product=hypothetical protein
+NODE_5847	Prodigal:002006	CDS	3957	4208	.	+	0	ID=LEBPFFEF_00047;inference=ab initio prediction:Prodigal:002006;locus_tag=LEBPFFEF_00047;product=hypothetical protein
+NODE_5847	Prodigal:002006	CDS	4306	4959	.	+	0	ID=LEBPFFEF_00048;inference=ab initio prediction:Prodigal:002006;locus_tag=LEBPFFEF_00048;product=hypothetical protein
+NODE_5847	Prodigal:002006	CDS	4978	5517	.	+	0	ID=LEBPFFEF_00049;inference=ab initio prediction:Prodigal:002006;locus_tag=LEBPFFEF_00049;product=hypothetical protein
+NODE_5847	Prodigal:002006	CDS	5514	6029	.	+	0	ID=LEBPFFEF_00050;inference=ab initio prediction:Prodigal:002006;locus_tag=LEBPFFEF_00050;product=hypothetical protein
+NODE_5847	Prodigal:002006	CDS	6016	6936	.	+	0	ID=LEBPFFEF_00051;inference=ab initio prediction:Prodigal:002006;locus_tag=LEBPFFEF_00051;product=hypothetical protein
+NODE_5848	Prodigal:002006	CDS	3	161	.	+	0	ID=LEBPFFEF_00052;inference=ab initio prediction:Prodigal:002006;locus_tag=LEBPFFEF_00052;product=hypothetical protein
+NODE_5848	Prodigal:002006	CDS	164	550	.	+	0	ID=LEBPFFEF_00053;inference=ab initio prediction:Prodigal:002006;locus_tag=LEBPFFEF_00053;product=hypothetical protein
+NODE_5848	Prodigal:002006	CDS	499	990	.	+	0	ID=LEBPFFEF_00054;inference=ab initio prediction:Prodigal:002006;locus_tag=LEBPFFEF_00054;product=hypothetical protein
+NODE_5848	Prodigal:002006	CDS	990	1427	.	+	0	ID=LEBPFFEF_00055;inference=ab initio prediction:Prodigal:002006;locus_tag=LEBPFFEF_00055;product=hypothetical protein
+NODE_5848	Prodigal:002006	CDS	1424	1822	.	+	0	ID=LEBPFFEF_00056;inference=ab initio prediction:Prodigal:002006;locus_tag=LEBPFFEF_00056;product=hypothetical protein
+NODE_5848	Prodigal:002006	CDS	1825	2325	.	+	0	ID=LEBPFFEF_00057;inference=ab initio prediction:Prodigal:002006;locus_tag=LEBPFFEF_00057;product=hypothetical protein
+NODE_5848	Prodigal:002006	CDS	2344	2823	.	+	0	ID=LEBPFFEF_00058;inference=ab initio prediction:Prodigal:002006;locus_tag=LEBPFFEF_00058;product=hypothetical protein
+NODE_5848	Prodigal:002006	CDS	2836	3438	.	+	0	ID=LEBPFFEF_00059;inference=ab initio prediction:Prodigal:002006;locus_tag=LEBPFFEF_00059;product=hypothetical protein
+NODE_5848	Prodigal:002006	CDS	3526	6957	.	+	0	ID=LEBPFFEF_00060;inference=ab initio prediction:Prodigal:002006;locus_tag=LEBPFFEF_00060;product=hypothetical protein
+NODE_5850	Prodigal:002006	CDS	41	1030	.	-	0	ID=LEBPFFEF_00061;inference=ab initio prediction:Prodigal:002006;locus_tag=LEBPFFEF_00061;product=hypothetical protein
+NODE_5850	Prodigal:002006	CDS	1100	1696	.	-	0	ID=LEBPFFEF_00062;inference=ab initio prediction:Prodigal:002006;locus_tag=LEBPFFEF_00062;product=hypothetical protein
+NODE_5850	Prodigal:002006	CDS	1885	2367	.	-	0	ID=LEBPFFEF_00063;inference=ab initio prediction:Prodigal:002006;locus_tag=LEBPFFEF_00063;product=hypothetical protein
+NODE_5850	Prodigal:002006	CDS	2382	2807	.	-	0	ID=LEBPFFEF_00064;inference=ab initio prediction:Prodigal:002006;locus_tag=LEBPFFEF_00064;product=hypothetical protein
+NODE_5850	Prodigal:002006	CDS	3268	3450	.	+	0	ID=LEBPFFEF_00065;inference=ab initio prediction:Prodigal:002006;locus_tag=LEBPFFEF_00065;product=hypothetical protein
+NODE_5850	Prodigal:002006	CDS	3511	6969	.	+	0	ID=LEBPFFEF_00066;inference=ab initio prediction:Prodigal:002006;locus_tag=LEBPFFEF_00066;product=hypothetical protein
+NODE_6900	Prodigal:002006	CDS	3	290	.	+	0	ID=LEBPFFEF_00067;inference=ab initio prediction:Prodigal:002006;locus_tag=LEBPFFEF_00067;product=hypothetical protein
+NODE_6900	Prodigal:002006	CDS	308	1171	.	+	0	ID=LEBPFFEF_00068;inference=ab initio prediction:Prodigal:002006;locus_tag=LEBPFFEF_00068;product=hypothetical protein
+NODE_6900	Prodigal:002006	CDS	1233	1835	.	-	0	ID=LEBPFFEF_00069;inference=ab initio prediction:Prodigal:002006;locus_tag=LEBPFFEF_00069;product=hypothetical protein
+NODE_6900	Prodigal:002006	CDS	1896	2447	.	+	0	ID=LEBPFFEF_00070;inference=ab initio prediction:Prodigal:002006;locus_tag=LEBPFFEF_00070;product=hypothetical protein
+NODE_6900	Prodigal:002006	CDS	2643	3026	.	+	0	ID=LEBPFFEF_00071;Name=blaI;db_xref=COG:COG3682;gene=blaI;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P06555;locus_tag=LEBPFFEF_00071;product=Penicillinase repressor
+NODE_6900	Prodigal:002006	CDS	3023	5494	.	+	0	ID=LEBPFFEF_00072;inference=ab initio prediction:Prodigal:002006;locus_tag=LEBPFFEF_00072;product=hypothetical protein
+NODE_6900	Prodigal:002006	CDS	5693	6007	.	-	0	ID=LEBPFFEF_00073;inference=ab initio prediction:Prodigal:002006;locus_tag=LEBPFFEF_00073;product=hypothetical protein
+NODE_11159	Prodigal:002006	CDS	3	140	.	-	0	ID=LEBPFFEF_00074;inference=ab initio prediction:Prodigal:002006;locus_tag=LEBPFFEF_00074;product=hypothetical protein
+NODE_11159	Prodigal:002006	CDS	435	818	.	-	0	ID=LEBPFFEF_00075;inference=ab initio prediction:Prodigal:002006;locus_tag=LEBPFFEF_00075;product=hypothetical protein
+NODE_11159	Prodigal:002006	CDS	1086	1910	.	-	0	ID=LEBPFFEF_00076;inference=ab initio prediction:Prodigal:002006;locus_tag=LEBPFFEF_00076;product=hypothetical protein
+NODE_11159	Prodigal:002006	CDS	1972	2433	.	-	0	ID=LEBPFFEF_00077;inference=ab initio prediction:Prodigal:002006;locus_tag=LEBPFFEF_00077;product=hypothetical protein
+NODE_11159	Prodigal:002006	CDS	2453	3310	.	-	0	ID=LEBPFFEF_00078;inference=ab initio prediction:Prodigal:002006;locus_tag=LEBPFFEF_00078;product=hypothetical protein
+NODE_11159	Prodigal:002006	CDS	3371	4009	.	-	0	ID=LEBPFFEF_00079;inference=ab initio prediction:Prodigal:002006;locus_tag=LEBPFFEF_00079;product=hypothetical protein
+NODE_11178	Prodigal:002006	CDS	2	739	.	-	0	ID=LEBPFFEF_00080;inference=ab initio prediction:Prodigal:002006;locus_tag=LEBPFFEF_00080;product=hypothetical protein
+NODE_11178	Prodigal:002006	CDS	754	1203	.	-	0	ID=LEBPFFEF_00081;inference=ab initio prediction:Prodigal:002006;locus_tag=LEBPFFEF_00081;product=hypothetical protein
+NODE_11178	Prodigal:002006	CDS	1266	1442	.	-	0	ID=LEBPFFEF_00082;inference=ab initio prediction:Prodigal:002006;locus_tag=LEBPFFEF_00082;product=hypothetical protein
+NODE_11178	Prodigal:002006	CDS	1476	1601	.	+	0	ID=LEBPFFEF_00083;inference=ab initio prediction:Prodigal:002006;locus_tag=LEBPFFEF_00083;product=hypothetical protein
+NODE_11178	Prodigal:002006	CDS	2189	3403	.	+	0	ID=LEBPFFEF_00084;inference=ab initio prediction:Prodigal:002006;locus_tag=LEBPFFEF_00084;product=hypothetical protein
+NODE_11178	Prodigal:002006	CDS	3400	3972	.	+	0	ID=LEBPFFEF_00085;inference=ab initio prediction:Prodigal:002006;locus_tag=LEBPFFEF_00085;product=hypothetical protein
+NODE_11184	Prodigal:002006	CDS	99	941	.	-	0	ID=LEBPFFEF_00086;Name=tepA;db_xref=COG:COG0740;gene=tepA;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:Q99171;locus_tag=LEBPFFEF_00086;product=Translocation-enhancing protein TepA
+NODE_11184	Prodigal:002006	CDS	880	1641	.	-	0	ID=LEBPFFEF_00087;inference=ab initio prediction:Prodigal:002006;locus_tag=LEBPFFEF_00087;product=hypothetical protein
+NODE_11184	Prodigal:002006	CDS	1692	2432	.	-	0	ID=LEBPFFEF_00088;db_xref=COG:COG0217;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P62035;locus_tag=LEBPFFEF_00088;product=putative transcriptional regulatory protein
+NODE_11184	Prodigal:002006	CDS	2459	3778	.	-	0	ID=LEBPFFEF_00089;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P9WFP1;locus_tag=LEBPFFEF_00089;note=UPF0053 protein Rv2366c;product=hypothetical protein
+NODE_16328	Prodigal:002006	CDS	3	206	.	-	0	ID=LEBPFFEF_00090;inference=ab initio prediction:Prodigal:002006;locus_tag=LEBPFFEF_00090;product=hypothetical protein
+NODE_16328	Prodigal:002006	CDS	221	793	.	-	0	ID=LEBPFFEF_00091;inference=ab initio prediction:Prodigal:002006;locus_tag=LEBPFFEF_00091;product=hypothetical protein
+NODE_16328	Prodigal:002006	CDS	1561	3009	.	-	0	ID=LEBPFFEF_00092;eC_number=2.7.13.3;Name=rcsC;gene=rcsC;inference=ab initio prediction:Prodigal:002006,protein motif:HAMAP:MF_00979;locus_tag=LEBPFFEF_00092;product=Sensor histidine kinase RcsC
+NODE_16361	Prodigal:002006	CDS	325	495	.	+	0	ID=LEBPFFEF_00093;inference=ab initio prediction:Prodigal:002006;locus_tag=LEBPFFEF_00093;product=hypothetical protein
+NODE_16361	Prodigal:002006	CDS	996	2324	.	+	0	ID=LEBPFFEF_00094;inference=ab initio prediction:Prodigal:002006;locus_tag=LEBPFFEF_00094;product=hypothetical protein
+NODE_16361	Prodigal:002006	CDS	2563	2808	.	-	0	ID=LEBPFFEF_00095;inference=ab initio prediction:Prodigal:002006;locus_tag=LEBPFFEF_00095;product=hypothetical protein
+NODE_16362	barrnap:0.9	rRNA	1	762	2.9e-210	+	.	ID=LEBPFFEF_00096;locus_tag=LEBPFFEF_00096;note=aligned only 48 percent of the 16S ribosomal RNA;product=16S ribosomal RNA (partial)
+NODE_16362	Aragorn:001002	tRNA	895	971	.	+	.	ID=LEBPFFEF_00097;inference=COORDINATES:profile:Aragorn:001002;locus_tag=LEBPFFEF_00097;product=tRNA-Ile(gat)
+NODE_16362	Aragorn:001002	tRNA	982	1057	.	+	.	ID=LEBPFFEF_00098;inference=COORDINATES:profile:Aragorn:001002;locus_tag=LEBPFFEF_00098;product=tRNA-Ala(tgc)
+NODE_16362	barrnap:0.9	rRNA	1130	3005	0	+	.	ID=LEBPFFEF_00099;locus_tag=LEBPFFEF_00099;note=aligned only 58 percent of the 23S ribosomal RNA;product=23S ribosomal RNA (partial)
+NODE_16385	Prodigal:002006	CDS	3	3002	.	+	0	ID=LEBPFFEF_00100;inference=ab initio prediction:Prodigal:002006;locus_tag=LEBPFFEF_00100;product=hypothetical protein
+NODE_4469	Prodigal:002006	CDS	9	2318	.	-	0	ID=LEBPFFEF_00101;inference=ab initio prediction:Prodigal:002006;locus_tag=LEBPFFEF_00101;product=hypothetical protein
+NODE_4469	Prodigal:002006	CDS	2315	2764	.	-	0	ID=LEBPFFEF_00102;inference=ab initio prediction:Prodigal:002006;locus_tag=LEBPFFEF_00102;product=hypothetical protein
+NODE_4469	Prodigal:002006	CDS	2886	3596	.	-	0	ID=LEBPFFEF_00103;inference=ab initio prediction:Prodigal:002006;locus_tag=LEBPFFEF_00103;product=hypothetical protein
+NODE_4469	Prodigal:002006	CDS	3613	5592	.	-	0	ID=LEBPFFEF_00104;inference=ab initio prediction:Prodigal:002006;locus_tag=LEBPFFEF_00104;product=hypothetical protein
+NODE_4469	Prodigal:002006	CDS	5713	6285	.	-	0	ID=LEBPFFEF_00105;inference=ab initio prediction:Prodigal:002006;locus_tag=LEBPFFEF_00105;product=hypothetical protein
+NODE_4469	Prodigal:002006	CDS	6282	6818	.	-	0	ID=LEBPFFEF_00106;inference=ab initio prediction:Prodigal:002006;locus_tag=LEBPFFEF_00106;product=hypothetical protein
+NODE_4469	Prodigal:002006	CDS	6915	7241	.	-	0	ID=LEBPFFEF_00107;Name=resA;gene=resA;inference=ab initio prediction:Prodigal:002006,protein motif:HAMAP:MF_01319;locus_tag=LEBPFFEF_00107;product=Thiol-disulfide oxidoreductase ResA
+NODE_4469	Prodigal:002006	CDS	7241	7927	.	-	0	ID=LEBPFFEF_00108;inference=ab initio prediction:Prodigal:002006;locus_tag=LEBPFFEF_00108;product=hypothetical protein
+NODE_4469	Prodigal:002006	CDS	8092	9012	.	+	0	ID=LEBPFFEF_00109;Name=oxyR;gene=oxyR;inference=ab initio prediction:Prodigal:002006,similar to AA sequence:UniProtKB:P0ACQ4;locus_tag=LEBPFFEF_00109;product=Hydrogen peroxide-inducible genes activator
+NODE_4485	Prodigal:002006	CDS	107	1054	.	+	0	ID=LEBPFFEF_00110;Name=xerC;gene=xerC;inference=ab initio prediction:Prodigal:002006,protein motif:HAMAP:MF_01808;locus_tag=LEBPFFEF_00110;product=Tyrosine recombinase XerC
+NODE_4485	Prodigal:002006	CDS	1720	2163	.	+	0	ID=LEBPFFEF_00111;inference=ab initio prediction:Prodigal:002006;locus_tag=LEBPFFEF_00111;product=hypothetical protein
+NODE_4485	Prodigal:002006	CDS	2935	3990	.	+	0	ID=LEBPFFEF_00112;inference=ab initio prediction:Prodigal:002006;locus_tag=LEBPFFEF_00112;product=hypothetical protein
+NODE_4485	Prodigal:002006	CDS	3987	4850	.	+	0	ID=LEBPFFEF_00113;inference=ab initio prediction:Prodigal:002006;locus_tag=LEBPFFEF_00113;product=hypothetical protein
+NODE_4485	Prodigal:002006	CDS	4870	5082	.	+	0	ID=LEBPFFEF_00114;inference=ab initio prediction:Prodigal:002006;locus_tag=LEBPFFEF_00114;product=hypothetical protein
+NODE_4485	Prodigal:002006	CDS	5218	6867	.	+	0	ID=LEBPFFEF_00115;inference=ab initio prediction:Prodigal:002006;locus_tag=LEBPFFEF_00115;product=hypothetical protein
+NODE_4485	Prodigal:002006	CDS	6868	8505	.	+	0	ID=LEBPFFEF_00116;inference=ab initio prediction:Prodigal:002006;locus_tag=LEBPFFEF_00116;product=hypothetical protein
+NODE_4485	Prodigal:002006	CDS	8498	9016	.	+	0	ID=LEBPFFEF_00117;inference=ab initio prediction:Prodigal:002006;locus_tag=LEBPFFEF_00117;product=hypothetical protein
+NODE_4486	Prodigal:002006	CDS	34	585	.	-	0	ID=LEBPFFEF_00118;inference=ab initio prediction:Prodigal:002006;locus_tag=LEBPFFEF_00118;product=hypothetical protein
+NODE_4486	Prodigal:002006	CDS	779	1093	.	-	0	ID=LEBPFFEF_00119;inference=ab initio prediction:Prodigal:002006;locus_tag=LEBPFFEF_00119;product=hypothetical protein
+NODE_4486	Prodigal:002006	CDS	1277	2446	.	-	0	ID=LEBPFFEF_00120;inference=ab initio prediction:Prodigal:002006;locus_tag=LEBPFFEF_00120;product=hypothetical protein
+NODE_4486	Prodigal:002006	CDS	2446	3069	.	-	0	ID=LEBPFFEF_00121;inference=ab initio prediction:Prodigal:002006;locus_tag=LEBPFFEF_00121;product=hypothetical protein
+NODE_4486	Prodigal:002006	CDS	3041	4927	.	-	0	ID=LEBPFFEF_00122;inference=ab initio prediction:Prodigal:002006;locus_tag=LEBPFFEF_00122;product=hypothetical protein
+NODE_4486	Prodigal:002006	CDS	4914	5138	.	-	0	ID=LEBPFFEF_00123;inference=ab initio prediction:Prodigal:002006;locus_tag=LEBPFFEF_00123;product=hypothetical protein
+NODE_4486	Prodigal:002006	CDS	5107	5403	.	-	0	ID=LEBPFFEF_00124;inference=ab initio prediction:Prodigal:002006;locus_tag=LEBPFFEF_00124;product=hypothetical protein
+NODE_4486	Prodigal:002006	CDS	5452	7020	.	-	0	ID=LEBPFFEF_00125;inference=ab initio prediction:Prodigal:002006;locus_tag=LEBPFFEF_00125;product=hypothetical protein
+NODE_4486	Prodigal:002006	CDS	7037	7849	.	+	0	ID=LEBPFFEF_00126;inference=ab initio prediction:Prodigal:002006;locus_tag=LEBPFFEF_00126;product=hypothetical protein
+NODE_4486	Prodigal:002006	CDS	8065	8631	.	-	0	ID=LEBPFFEF_00127;inference=ab initio prediction:Prodigal:002006;locus_tag=LEBPFFEF_00127;product=hypothetical protein
